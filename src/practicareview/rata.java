@@ -9,5 +9,8 @@ public class rata {
 		
 		
 	}
+public void cojopower() {
+System.out.println("modifying code on gitup");
 
+} 
 }
