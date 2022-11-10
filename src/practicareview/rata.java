@@ -7,7 +7,7 @@ public class rata {
 
 		System.out.println("this is my first creation in cojo branch");
 		
-		
+		System.out.println("ahhahahahah");
 	}
 
 }
